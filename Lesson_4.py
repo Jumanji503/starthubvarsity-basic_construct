@@ -5,5 +5,6 @@ def jurgen_func():
     Is_male = True
     print(Name, height, age, Is_male)
     school = "University of calabar"
+    print(school)
     
 jurgen_func()
